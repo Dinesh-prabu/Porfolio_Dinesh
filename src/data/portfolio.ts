@@ -27,7 +27,7 @@ export const portfolio = {
   name: 'Dineshprabu A.',
   role: 'Frontend React Developer',
   tagline: 'From QA to code — building reliable, user-focused web applications.',
-  email: 'dineshprabu.a@email.com',
+  email: 'prabu2809@gmail.com',
   location: 'India',
   available: true,
 
